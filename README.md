@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Robotics and Automation**
 
-- 📫 How to reach me **vikas.sharma005@protonmail.com**
-
 - ⚡ Fun fact **I once created a robot that mimicked a Transformer — cool, right?**
 
 <h3 align="left">Connect with me:</h3>
